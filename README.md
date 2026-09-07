@@ -1,9 +1,5 @@
 # End-to-End DevOps Automation and Observability Platform
 
-**Candidate:** Jerry Sarpey  
-**Submission date:** August 7, 2026  
-**Status:** Completed
-
 ## Project Overview
 
 This repository demonstrates a complete DevOps workflow built with Linux, GitHub Actions, Docker, HashiCorp Nomad, and Grafana Loki. It includes system automation, application containerization, continuous integration, workload orchestration, centralized logging, and supporting evidence.
